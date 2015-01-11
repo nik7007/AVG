@@ -111,6 +111,7 @@ public class Main {
         }
 
         writer.close();
+        System.out.println("Done!");
 
 
     }
